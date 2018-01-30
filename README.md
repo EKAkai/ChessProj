@@ -1,0 +1,2 @@
+# ChessProj
+Semicomplete chess program 
